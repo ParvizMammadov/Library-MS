@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Fujitsu
+Build-Jdk: 10.0.2
+Implementation-Title: library-ms
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.parviz
+Implementation-URL: https://spring.io/projects/spring-boot/library-ms
+Created-By: Maven Integration for Eclipse
+
